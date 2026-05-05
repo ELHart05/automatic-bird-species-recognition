@@ -1,0 +1,6 @@
+numpy
+pillow
+requests
+streamlit
+keras
+jax[cpu]
